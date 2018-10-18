@@ -1,0 +1,26 @@
+@media print
+{
+	.mh-content
+	{
+		width: 100%;
+		display: block;
+		float: none;
+	}
+	.main-nav,
+	.header-wrap,
+	.mh-sidebar,
+	.news-ticker,
+	nav.breadcrumb,
+	.meta.post-meta,
+	ul.post-meta,
+	.post-tags,
+	.share-buttons-container,
+	.section-title,
+	.related-posts,
+	.copyright-wrap,
+	.sharedaddy,
+	iframe
+	{
+		display: none;
+	}
+}

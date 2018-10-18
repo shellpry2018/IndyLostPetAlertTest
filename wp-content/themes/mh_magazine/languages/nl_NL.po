@@ -1,0 +1,1721 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Magazine v2.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-14 12:05+0100\n"
+"PO-Revision-Date: 2014-11-06 19:37+0100\n"
+"Last-Translator: Michael Hebenstreit <mail@michael-hebenstreit.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: nl\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ mh
+#: 404.php:8 content-none.php:9
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Sorry, deze pagina bestaat niet. Misschien helpt zoeken."
+
+# @ mh
+#: 404.php:10 content-none.php:12 includes/mh-breadcrumb.php:66
+msgid "Search"
+msgstr "Zoeken"
+
+# @ mh
+#: 404.php:15 content-none.php:17
+msgid "Popular Articles"
+msgstr "Populaire Berichten"
+
+# @ mh
+#: 404.php:20 content-none.php:22
+msgid "Random Articles"
+msgstr "Random Berichten"
+
+# @ mh
+#: admin/admin.php:22
+msgid "Post Options"
+msgstr "Bericht Opties"
+
+# @ mh
+#: admin/admin.php:32
+msgid "Subheading (will be displayed below post title)"
+msgstr "Ondertitel (toont onder de titel van het bericht)"
+
+# @ mh
+#: admin/admin.php:37
+msgid "Alternative ad code (this will overwrite the global content ad code)"
+msgstr ""
+"Alternatieve Advertentie code (dit schrijft de algemene advertentie code "
+"over)"
+
+# @ mh
+#: admin/admin.php:44
+msgid "Disable Content Ad for this Post"
+msgstr "Schakel Content Ad uit voor dit bericht"
+
+# @ mh
+#: admin/admin.php:48
+msgid "Disable Featured Image for this Post"
+msgstr "Schakel Uitgelichte afbeelding uit voor dit bericht"
+
+# @ mh
+#: comments.php:9
+#, php-format
+msgid "1 Comment on %2$s"
+msgid_plural "%1$s Comments on %2$s"
+msgstr[0] "1 Reactie op %2$s"
+msgstr[1] "%1$s Reacties op %2$s"
+
+# @ mh
+#: comments.php:16 includes/mh-custom-functions.php:423
+#: includes/mh-post-content.php:144
+msgid "&laquo;"
+msgstr "&laquo;"
+
+# @ mh
+#: comments.php:16 includes/mh-custom-functions.php:423
+#: includes/mh-post-content.php:144
+msgid "&raquo;"
+msgstr "&raquo;"
+
+# @ mh
+#: comments.php:22
+#, php-format
+msgid "%s Trackbacks & Pingbacks"
+msgstr "%s Trackbacks & Pingbacks"
+
+# @ mh
+#: comments.php:30
+msgid "Comments are closed."
+msgstr "Reacties zijn afgesloten bij dit onderwerp."
+
+# @ mh
+#: comments.php:35
+msgid "Leave a comment"
+msgstr "Plaats een reactie"
+
+# @ mh
+#: comments.php:36
+msgid "Your email address will not be published."
+msgstr "Uw e-mailadres wordt niet gepubliceerd."
+
+# @ mh
+#: comments.php:38
+msgid "Comment"
+msgstr "Reactie"
+
+# @ mh
+#: content-none.php:5
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+"Sorry, niets komt overeen met jouw zoekterm. Probeer eens met een andere "
+"zoekterm."
+
+# @ mh
+#: functions.php:102
+msgid "Header Navigation"
+msgstr "Header Navigatie"
+
+# @ mh
+#: functions.php:103
+msgid "Main Navigation"
+msgstr "Hoofd-Navigatie"
+
+# @ mh
+#: functions.php:104
+msgid "Additional Navigation (below Main Navigation)"
+msgstr "Extra Navigatie (onder Hoofd-Navigatie)"
+
+# @ mh
+#: functions.php:105
+msgid "Footer Navigation"
+msgstr "Footer Navigatie"
+
+# @ mh
+#: functions.php:140
+msgctxt "widget area name"
+msgid "Header"
+msgstr "Header"
+
+# @ mh
+#: functions.php:140
+msgid "Widget area on top of the site"
+msgstr "Widget gebied bovenaan de website"
+
+# @ mh
+#: functions.php:141
+msgctxt "widget area name"
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+# @ mh
+#: functions.php:141
+msgid "Widget area (sidebar left/right) on single posts, pages and archives"
+msgstr ""
+"Widget gebied (zijbalk links/rechts) op enkel berichten, pagina's en "
+"archieven"
+
+# @ mh
+#: functions.php:143
+#, php-format
+msgctxt "widget area name"
+msgid "Sidebar %d"
+msgstr "Zijbalk %d"
+
+# @ mh
+#: functions.php:143
+msgid "Second sidebar on single posts, pages and archives"
+msgstr "Tweede zijbalk op enkel berichten, pagina's en archieven"
+
+# @ mh
+#: functions.php:145 functions.php:146 functions.php:147 functions.php:148
+#: functions.php:149 functions.php:150 functions.php:151 functions.php:152
+#: functions.php:153 functions.php:154 functions.php:155 functions.php:157
+#, php-format
+msgctxt "widget area name"
+msgid "Home %d"
+msgstr "Home %d"
+
+# @ mh
+#: functions.php:145 functions.php:146 functions.php:147 functions.php:148
+#: functions.php:149 functions.php:150 functions.php:151 functions.php:152
+#: functions.php:153 functions.php:154 functions.php:155
+msgid "Widget area on homepage"
+msgstr "Widget gebied op homepage"
+
+# @ mh
+#: functions.php:157
+msgid "Sidebar on homepage"
+msgstr "Zijbalk op homepage"
+
+# @ mh
+#: functions.php:159 functions.php:160
+#, php-format
+msgctxt "widget area name"
+msgid "Posts %d"
+msgstr "Berichten %d"
+
+# @ mh
+#: functions.php:159
+msgid "Widget area above single post content"
+msgstr "Widget gebied boven enkel bericht inhoud"
+
+# @ mh
+#: functions.php:160
+msgid "Widget area below single post content"
+msgstr "Widget gebied onder enkel bericht inhoud"
+
+# @ mh
+#: functions.php:161 functions.php:162
+#, php-format
+msgctxt "widget area name"
+msgid "Pages %d"
+msgstr "Paginas %d"
+
+# @ mh
+#: functions.php:161
+msgid "Widget area above single page content"
+msgstr "Widget gebied boven enkel pagina inhoud"
+
+# @ mh
+#: functions.php:162
+msgid "Widget area below single page content"
+msgstr "Widget gebied onder enkel pagina inhoud"
+
+# @ mh
+#: functions.php:163 functions.php:164 functions.php:165 functions.php:166
+#, php-format
+msgctxt "widget area name"
+msgid "Footer %d"
+msgstr "Footer %d"
+
+# @ mh
+#: functions.php:163 functions.php:164 functions.php:165 functions.php:166
+msgid "Widget area in footer"
+msgstr "Widget gebied in footer"
+
+# @ mh
+#: functions.php:167
+msgctxt "widget area name"
+msgid "Contact"
+msgstr "Contact"
+
+# @ mh
+#: functions.php:167
+msgid "Widget area (sidebar) on contact page template"
+msgstr "Widget gebied (zijbalk) op contact pagina sjabloon"
+
+# @ mh
+#: functions.php:169
+#, php-format
+msgctxt "widget area name"
+msgid "Contact %d"
+msgstr "Contact %d"
+
+# @ mh
+#: functions.php:169
+msgid "2nd widget area (sidebar) on contact page template"
+msgstr "Tweede widget gebied (zijbalk) op contact pagina sjabloon"
+
+# @ mh
+#: functions.php:197
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+# @ mh
+#: functions.php:197
+msgid "Widget area (sidebar) on WooCommerce pages"
+msgstr "Widget gebied (zijbalk) op WooCommerce pagina's"
+
+# @ mh
+#: includes/mh-breadcrumb.php:15
+msgid "Home"
+msgstr "Home"
+
+# @ mh
+#: includes/mh-breadcrumb.php:27
+msgid "Media"
+msgstr "Media"
+
+# @ mh
+#: includes/mh-breadcrumb.php:62 includes/widgets/mh-authors.php:57
+msgid "Authors"
+msgstr "Auteurs"
+
+# @ mh
+#: includes/mh-breadcrumb.php:64 includes/mh-custom-functions.php:275
+msgid "Page not found (404)"
+msgstr "Pagina niet gevonden (404)"
+
+# @ mh
+#: includes/mh-breadcrumb.php:76 includes/mh-breadcrumb.php:80
+msgid "Yearly Archives"
+msgstr "Jaarlijks Archief"
+
+# @ mh
+#: includes/mh-breadcrumb.php:77
+msgid "Monthly Archives"
+msgstr "Maandelijks Archief"
+
+# @ mh
+#: includes/mh-custom-functions.php:101
+#, php-format
+msgid "About %s"
+msgstr "Over %s"
+
+# @ mh
+#: includes/mh-custom-functions.php:101
+#, php-format
+msgid "More articles written by %s"
+msgstr "Meer berichten geschreven door %s"
+
+# @ mh
+#: includes/mh-custom-functions.php:101
+#, php-format
+msgid "%s Articles"
+msgstr "%s Berichten"
+
+# @ mh
+#: includes/mh-custom-functions.php:105
+msgid ""
+"The author has not yet added any personal or biographical info to his author "
+"profile."
+msgstr ""
+"De auteur heeft nog geen informatie toegevoegd aan zijn auteurs profiel."
+
+# @ mh
+#: includes/mh-custom-functions.php:111
+msgid "Contact:"
+msgstr "Contact:"
+
+# @ mh
+#: includes/mh-custom-functions.php:113
+#, php-format
+msgid "Visit the website of %s"
+msgstr "Bezoek de website van %s"
+
+# @ mh
+#: includes/mh-custom-functions.php:113 includes/mh-custom-functions.php:402
+msgid "Website"
+msgstr "Website"
+
+# @ mh
+#: includes/mh-custom-functions.php:116
+#, php-format
+msgid "Follow %s on Facebook"
+msgstr "Volg %s op Facebook"
+
+# @ mh
+#: includes/mh-custom-functions.php:116
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ mh
+#: includes/mh-custom-functions.php:119
+#, php-format
+msgid "Follow %s on Twitter"
+msgstr "Volg %s op Twitter"
+
+# @ mh
+#: includes/mh-custom-functions.php:119
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ mh
+#: includes/mh-custom-functions.php:122
+#, php-format
+msgid "Follow %s on Google+"
+msgstr "Volg %s op Google+"
+
+# @ mh
+#: includes/mh-custom-functions.php:122
+msgid "Google+"
+msgstr "Google+"
+
+# @ mh
+#: includes/mh-custom-functions.php:125
+#, php-format
+msgid "Follow %s on YouTube"
+msgstr "Volg %s op YouTube"
+
+# @ mh
+#: includes/mh-custom-functions.php:125
+msgid "YouTube"
+msgstr "YouTube"
+
+# @ mh
+#: includes/mh-custom-functions.php:159
+msgid "&larr; Back to article"
+msgstr "&larr; Terug naar bericht"
+
+# @ mh
+#: includes/mh-custom-functions.php:166
+msgid "&larr; Previous image"
+msgstr "&larr; Vorige foto"
+
+# @ mh
+#: includes/mh-custom-functions.php:168
+msgid "&larr; Previous article"
+msgstr "&larr; Vorig bericht"
+
+# @ mh
+#: includes/mh-custom-functions.php:173
+msgid "Next image &rarr;"
+msgstr "Volgende afbeelding &rarr;"
+
+# @ mh
+#: includes/mh-custom-functions.php:175
+msgid "Next article &rarr;"
+msgstr "Volgend bericht &rarr;"
+
+# @ mh
+#: includes/mh-custom-functions.php:199 includes/mh-options.php:113
+msgid "Related Articles"
+msgstr "Gerelateerde Berichten"
+
+# @ mh
+#: includes/mh-custom-functions.php:240
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+# @ mh
+#: includes/mh-custom-functions.php:261
+#, php-format
+msgctxt "post author"
+msgid "Articles by %s"
+msgstr "Berichten door %s"
+
+# @ mh
+#: includes/mh-custom-functions.php:269 includes/mh-options.php:114
+#: page-sitemap.php:22
+msgid "Archives"
+msgstr "Archief"
+
+# @ mh
+#: includes/mh-custom-functions.php:277
+#, php-format
+msgid "Search Results for %s"
+msgstr "Zoekresultaat voor %s"
+
+# @ mh
+#: includes/mh-custom-functions.php:376
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s op %2$s"
+
+# @ mh
+#: includes/mh-custom-functions.php:380
+msgid "(Edit)"
+msgstr "(Aanpassen)"
+
+# @ mh
+#: includes/mh-custom-functions.php:383
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie wacht op moderatie."
+
+# @ mh
+#: includes/mh-custom-functions.php:400
+msgid "Name "
+msgstr "Naam"
+
+# @ mh
+#: includes/mh-custom-functions.php:401
+msgid "Email "
+msgstr "E-Mail"
+
+# @ mh
+#: includes/mh-custom-functions.php:413
+#, php-format
+msgctxt "comments number"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Reactie"
+msgstr[1] "%1$s Reacties"
+
+# @ mh
+#: includes/mh-options.php:29
+msgid "General Options"
+msgstr "Algemene Opties"
+
+# @ mh
+#: includes/mh-options.php:30
+msgid "Layout Options"
+msgstr "Lay-Out Opties"
+
+# @ mh
+#: includes/mh-options.php:31
+msgid "Typography Options"
+msgstr "Typografie Opties"
+
+# @ mh
+#: includes/mh-options.php:32
+msgid "News Ticker Options"
+msgstr "Nieuws Ticker Opties"
+
+# @ mh
+#: includes/mh-options.php:33
+msgid "Posts/Pages Options"
+msgstr "Berichten/Pagina's Opties"
+
+# @ mh
+#: includes/mh-options.php:34 includes/widgets/mh-advertising-widget.php:51
+msgid "Advertising"
+msgstr "Advertenties"
+
+# @ mh
+#: includes/mh-options.php:35 includes/mh-options.php:151
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+# @ mh
+#: includes/mh-options.php:36
+msgid "Tracking Code"
+msgstr "Trackingcode"
+
+# @ mh
+#: includes/mh-options.php:104
+msgid "Favicon Upload"
+msgstr "Favicon Upload"
+
+# @ mh
+#: includes/mh-options.php:105
+msgid "Custom Excerpt Length in Characters"
+msgstr "Aangepaste Beknopte Samenvatting lengte in Tekens"
+
+# @ mh
+#: includes/mh-options.php:106
+msgid "Custom Excerpt More-Text"
+msgstr "Aangepast Beknopte Samenvatting Meer-Tekst"
+
+# @ mh
+#: includes/mh-options.php:107
+msgid "Copyright Text"
+msgstr "Copyright Tekst"
+
+# @ mh
+#: includes/mh-options.php:109
+msgid "Widget Titles"
+msgstr "Widget Titels"
+
+# @ mh
+#: includes/mh-options.php:109 includes/mh-options.php:110
+#: includes/mh-options.php:111 includes/mh-options.php:113
+#: includes/mh-options.php:114 includes/mh-options.php:199
+#: includes/mh-options.php:200 includes/mh-options.php:201
+#, php-format
+msgctxt "options panel"
+msgid "Layout %d"
+msgstr "Layout %d"
+
+# @ mh
+#: includes/mh-options.php:110
+msgid "Page Titles"
+msgstr "Pagina Titels"
+
+# @ mh
+#: includes/mh-options.php:111
+msgid "Author Box"
+msgstr "Auteur Box"
+
+# @ mh
+#: includes/mh-options.php:111 includes/mh-options.php:112
+#: includes/mh-options.php:113 includes/mh-options.php:120
+#: includes/mh-options.php:134 includes/mh-options.php:135
+#: includes/mh-options.php:136 includes/mh-options.php:137
+#: includes/mh-options.php:138 includes/mh-options.php:139
+#: includes/mh-options.php:140 includes/mh-options.php:190
+msgid "Disable"
+msgstr "Uitgeschakeld"
+
+# @ mh
+#: includes/mh-options.php:112
+msgid "Author Box Contact"
+msgstr "Auteur Box Contact"
+
+# @ mh
+#: includes/mh-options.php:112 includes/mh-options.php:120
+#: includes/mh-options.php:134 includes/mh-options.php:135
+#: includes/mh-options.php:136 includes/mh-options.php:137
+#: includes/mh-options.php:138 includes/mh-options.php:139
+#: includes/mh-options.php:189
+msgid "Enable"
+msgstr "Ingeschakeld"
+
+# @ mh
+#: includes/mh-options.php:115
+msgid "Sidebars"
+msgstr "Zijbalken"
+
+# @ mh
+#: includes/mh-options.php:115 includes/mh-options.php:186
+msgid "One Sidebar"
+msgstr "Eén Zijbalk"
+
+# @ mh
+#: includes/mh-options.php:115 includes/mh-options.php:187
+msgid "Two Sidebars"
+msgstr "Twee Zijbalken"
+
+# @ mh
+#: includes/mh-options.php:115 includes/mh-options.php:188
+msgid "No Sidebars"
+msgstr "Geen Zijbalken"
+
+# @ mh
+#: includes/mh-options.php:116
+msgid "Position of default Sidebar"
+msgstr "Positie van standaard Zijbalk"
+
+# @ mh
+#: includes/mh-options.php:116 includes/mh-options.php:191
+msgid "Left"
+msgstr "Links"
+
+# @ mh
+#: includes/mh-options.php:116 includes/mh-options.php:192
+msgid "Right"
+msgstr "Rechts"
+
+# @ mh
+#: includes/mh-options.php:118
+msgid "Change default Font Size (px)"
+msgstr "Verander Standaard Lettergrootte (px)"
+
+# @ mh
+#: includes/mh-options.php:120
+msgid "Google Webfonts"
+msgstr "Google Webfonts"
+
+# @ mh
+#: includes/mh-options.php:121
+msgid "Google Webfonts Characters"
+msgstr "Google Webfont Tekens"
+
+# @ mh
+#: includes/mh-options.php:121 includes/mh-options.php:193
+msgid "Latin"
+msgstr "Latijn"
+
+# @ mh
+#: includes/mh-options.php:121 includes/mh-options.php:194
+msgid "Latin Extended"
+msgstr "Latijn uitgebrijd"
+
+# @ mh
+#: includes/mh-options.php:121 includes/mh-options.php:195
+msgid "Greek"
+msgstr "Grieks"
+
+# @ mh
+#: includes/mh-options.php:121 includes/mh-options.php:196
+msgid "Greek Extended"
+msgstr "Grieks uitgebreid"
+
+# @ mh
+#: includes/mh-options.php:121 includes/mh-options.php:197
+msgid "Cyrillic"
+msgstr "Cyrillic"
+
+# @ mh
+#: includes/mh-options.php:121 includes/mh-options.php:198
+msgid "Cyrillic Extended"
+msgstr "Cyrillic uitgebreid"
+
+# @ mh
+#: includes/mh-options.php:122
+msgid "Google Webfont for Headings"
+msgstr "Google Webfont voor Headings"
+
+# @ mh
+#: includes/mh-options.php:123
+msgid "Google Webfont for Body Text"
+msgstr "Google Webfont voor Body Tekst"
+
+# @ mh
+#: includes/mh-options.php:124
+msgid "Imported Google Font Styles"
+msgstr "Geïmporteerde Google Font Styles "
+
+# @ mh
+#: includes/mh-options.php:126
+msgid "Enable Ticker"
+msgstr "Schakel Ticker in"
+
+# @ mh
+#: includes/mh-options.php:127
+msgid "Ticker Title"
+msgstr "Ticker Titel"
+
+# @ mh
+#: includes/mh-options.php:128
+msgid "Limit Post Number"
+msgstr "Limiteer Berichten Aantal"
+
+# @ mh
+#: includes/mh-options.php:129
+msgid "Custom Categories (use ID - e.g. 3,5,9):"
+msgstr "Aangepaste Categorieën (gebruik ID - b.v. 3.5.9):"
+
+# @ mh
+#: includes/mh-options.php:130
+msgid "Custom Tags (use slug - e.g. lifestyle):"
+msgstr "Aangepaste Tags (gebruik slug - b.v. lifestyle):"
+
+# @ mh
+#: includes/mh-options.php:131 includes/widgets/mh-carousel.php:94
+#: includes/widgets/mh-custom-posts.php:145 includes/widgets/mh-nip.php:85
+#: includes/widgets/mh-slider.php:113 includes/widgets/mh-spotlight.php:102
+msgid "Skip Posts (Offset):"
+msgstr "Sla Berichten over (Offset):"
+
+# @ mh
+#: includes/mh-options.php:132 includes/widgets/mh-carousel.php:114
+#: includes/widgets/mh-custom-posts.php:183 includes/widgets/mh-nip.php:98
+#: includes/widgets/mh-slider.php:144
+msgid "Ignore Sticky Posts"
+msgstr "Negeer Sticky Berichten"
+
+# @ mh
+#: includes/mh-options.php:134
+msgid "Breadcrumb Navigation"
+msgstr "Breadcrumb Navigatie"
+
+# @ mh
+#: includes/mh-options.php:135
+msgid "Teaser Text on Posts"
+msgstr "Teaser Text in Berichten"
+
+# @ mh
+#: includes/mh-options.php:136
+msgid "Featured Image on Posts"
+msgstr "Uitgelichte Afbeelding in Berichten"
+
+# @ mh
+#: includes/mh-options.php:137
+msgid "Link Featured Image to Attachment"
+msgstr "Link Uitgelichte Afbeelding naar Bijlage"
+
+# @ mh
+#: includes/mh-options.php:138
+msgid "Comments on Pages"
+msgstr "Reacties op Pagina's"
+
+# @ mh
+#: includes/mh-options.php:139
+msgid "Post/Attachment Navigation"
+msgstr "Berichten/Bijlage Navigatie"
+
+# @ mh
+#: includes/mh-options.php:140
+msgid "Social Buttons on Posts"
+msgstr "Sociale Media knoppen in berichten"
+
+# @ mh
+#: includes/mh-options.php:140
+msgid "Top and bottom"
+msgstr "Boven- en onderaan"
+
+# @ mh
+#: includes/mh-options.php:140
+msgid "Top of posts"
+msgstr "Bovenaan het bericht"
+
+# @ mh
+#: includes/mh-options.php:140
+msgid "Bottom of posts"
+msgstr "Onderaan het bericht"
+
+# @ mh
+#: includes/mh-options.php:141
+msgid "Disable Post Meta Data"
+msgstr "Schakel Berichten Meta Data uit"
+
+# @ mh
+#: includes/mh-options.php:142
+msgid "Disable Date"
+msgstr "Schakel Datum uit"
+
+# @ mh
+#: includes/mh-options.php:143
+msgid "Disable Author"
+msgstr "Schakel Auteur uit"
+
+# @ mh
+#: includes/mh-options.php:144
+msgid "Disable Categories"
+msgstr "Schakel Categorieën uit"
+
+# @ mh
+#: includes/mh-options.php:145 includes/widgets/mh-spotlight.php:134
+msgid "Disable Comments"
+msgstr "Schakel Reacties uit"
+
+# @ mh
+#: includes/mh-options.php:147
+msgid "Ad Code for Content Ad on Posts"
+msgstr "Voeg code toe voor Content Ad bij Berichten"
+
+# @ mh
+#: includes/mh-options.php:148
+msgid "Ad Code for Ads on Archives"
+msgstr "Voeg Advertentie Code toe voor Advertenties op Archieven"
+
+# @ mh
+#: includes/mh-options.php:149
+msgid "Display Ad every x Posts on Archives:"
+msgstr "Toon een Advertentie elke x Berichten in het Archief:"
+
+# @ mh
+#: includes/mh-options.php:152
+msgid "Tracking Code (e.g. Google Analytics)"
+msgstr "Trackingcode (b.v. Google Analytics)"
+
+# @ mh
+#: includes/mh-options.php:154
+msgid "Background Header"
+msgstr "Achtergrond Header"
+
+# @ mh
+#: includes/mh-options.php:155
+msgid "Background Inner"
+msgstr "Achtergrond Inner"
+
+# @ mh
+#: includes/mh-options.php:158
+msgid "Text: General"
+msgstr "Tekst: Algemeen"
+
+# @ mh
+#: includes/mh-options.php:161
+msgid "Text: Post Meta"
+msgstr "Tekst: Post Meta"
+
+# @ mh
+#: includes/mh-options.php:165
+msgid "Scale Background Image to Full Size"
+msgstr "Schaal de achtergrond afbeelding naar volledige grootte"
+
+# @ mh
+#: includes/mh-options.php:202
+msgid "Top and Bottom"
+msgstr "Boven- en Onderaan"
+
+# @ mh
+#: includes/mh-options.php:203
+msgid "Top of Posts"
+msgstr "Bovenaan het Bericht"
+
+# @ mh
+#: includes/mh-options.php:204
+msgid "Bottom of Posts"
+msgstr "Onderaan het Bericht"
+
+# @ mh
+#: includes/mh-post-content.php:28
+#, php-format
+msgctxt "post date"
+msgid "on %s"
+msgstr "op %s"
+
+# @ mh
+#: includes/mh-post-content.php:29
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "door %s"
+
+# @ mh
+#: includes/mh-post-content.php:30
+#, php-format
+msgctxt "post category"
+msgid "in %s"
+msgstr "in %s"
+
+# @ mh
+#: includes/mh-post-content.php:31
+#, php-format
+msgctxt "post meta"
+msgid "Posted %1$s %2$s %3$s"
+msgstr "Geplaatst %1$s %2$s %3$s"
+
+# @ mh
+#: includes/mh-shortcodes.php:25
+msgid "Advertisement"
+msgstr "Reclame"
+
+# @ mh
+#: includes/widgets/mh-advertising-widget.php:7
+msgid ""
+"MH Advertising Widget to display ads in widget locations of your choice."
+msgstr ""
+"MH Advertentie Widget om advertenties te tonen op plekken van jouw keuze."
+
+# @ mh
+#: includes/widgets/mh-advertising-widget.php:8
+msgid "MH Advertising Widget"
+msgstr "MH Advertentie Widget"
+
+# @ mh
+#: includes/widgets/mh-advertising-widget.php:54
+#: includes/widgets/mh-affiliate.php:35 includes/widgets/mh-authors.php:61
+#: includes/widgets/mh-carousel.php:63 includes/widgets/mh-comments.php:47
+#: includes/widgets/mh-custom-posts.php:114
+#: includes/widgets/mh-custom-slider.php:126
+#: includes/widgets/mh-custom-slider.php:148
+#: includes/widgets/mh-custom-slider.php:170
+#: includes/widgets/mh-custom-slider.php:192
+#: includes/widgets/mh-custom-slider.php:214
+#: includes/widgets/mh-facebook-likebox.php:45 includes/widgets/mh-nip.php:54
+#: includes/widgets/mh-social-widget.php:104
+#: includes/widgets/mh-spotlight.php:79
+msgid "Title:"
+msgstr "Titel:"
+
+# @ mh
+#: includes/widgets/mh-advertising-widget.php:58
+#: includes/widgets/mh-affiliate.php:43
+msgid "Banner Size:"
+msgstr "Banner Grootte:"
+
+# @ mh
+#: includes/widgets/mh-advertising-widget.php:65
+#: includes/widgets/mh-advertising-widget.php:69
+#: includes/widgets/mh-advertising-widget.php:73
+#: includes/widgets/mh-advertising-widget.php:77
+msgid "Ad Code"
+msgstr "Advertentie Code"
+
+# @ mh
+#: includes/widgets/mh-affiliate.php:7
+msgid ""
+"MH Affiliate Widget to earn money by promoting WordPress themes by MH Themes."
+msgstr ""
+"MH Affiliate Widget om geld te verdienen door het promoten van WordPress "
+"themes by MH Themes."
+
+# @ mh
+#: includes/widgets/mh-affiliate.php:8
+msgid "MH Affiliate Widget"
+msgstr "MH Affiliate Widget"
+
+# @ mh
+#: includes/widgets/mh-affiliate.php:52
+msgid ""
+"With this widget you can earn money by promoting WordPress themes by MH "
+"Themes. If you do not have a Creative Market Username yet, please visit our"
+msgstr ""
+"Met dit widget kan je geld verdienen door het promoten van WordPress themes "
+"by MH Themes. Als je nog geen Creative Market gebruikersnaam hebt, bezoek a."
+"u.b. onze"
+
+# @ mh
+#: includes/widgets/mh-affiliate.php:52
+msgid "infopage for affiliates"
+msgstr "Infopagina voor Affiliates"
+
+# @ mh
+#: includes/widgets/mh-authors.php:7
+msgid ""
+"MH Authors widget to display a list of authors including the number of "
+"published posts."
+msgstr ""
+"MH Auteurs Widget toont een lijst van auteurs inclusief het aantal "
+"gepubliceerde berichten"
+
+# @ mh
+#: includes/widgets/mh-authors.php:8
+msgid "MH Authors Widget"
+msgstr "MH Auteurs Widget"
+
+# @ mh
+#: includes/widgets/mh-authors.php:31 includes/widgets/mh-authors.php:34
+#, php-format
+msgid "Articles by %s"
+msgstr "Berichten door %s"
+
+# @ mh
+#: includes/widgets/mh-authors.php:35
+#, php-format
+msgctxt "author post count"
+msgid "published %d articles"
+msgstr "%d berichten gepubliceerd"
+
+# @ mh
+#: includes/widgets/mh-authors.php:40
+msgid "No authors found"
+msgstr "Geen auteur gevonden"
+
+# @ mh
+#: includes/widgets/mh-authors.php:65
+msgid "Limit Author Number:"
+msgstr "Limiteer aantal Auteurs:"
+
+# @ mh
+#: includes/widgets/mh-authors.php:69
+msgid "Skip Authors (Offset):"
+msgstr "Sla Auteurs over (Offset):"
+
+# @ mh
+#: includes/widgets/mh-authors.php:73
+msgid "User Role:"
+msgstr "Gebruikers Functie:"
+
+# @ mh
+#: includes/widgets/mh-authors.php:75
+msgid "All Users"
+msgstr "Alle Gebruikers"
+
+# @ mh
+#: includes/widgets/mh-authors.php:76
+msgid "Administrator"
+msgstr "Administrator"
+
+# @ mh
+#: includes/widgets/mh-authors.php:77
+msgid "Editor"
+msgstr "Redacteur"
+
+# @ mh
+#: includes/widgets/mh-authors.php:78
+msgid "Author"
+msgstr "Auteur"
+
+# @ mh
+#: includes/widgets/mh-authors.php:79
+msgid "Contributor"
+msgstr "Inzender"
+
+# @ mh
+#: includes/widgets/mh-authors.php:80
+msgid "Subscriber"
+msgstr "Abonnee"
+
+# @ mh
+#: includes/widgets/mh-authors.php:84
+msgid "Order Authors by:"
+msgstr "Schik Auteurs op:"
+
+# @ mh
+#: includes/widgets/mh-authors.php:86
+msgid "Number of Posts"
+msgstr "Aantal Berichten"
+
+# @ mh
+#: includes/widgets/mh-authors.php:87
+msgid "User Name"
+msgstr "Gebruikersnaam:"
+
+# @ mh
+#: includes/widgets/mh-authors.php:91
+msgid "Order:"
+msgstr "Volgorde:"
+
+# @ mh
+#: includes/widgets/mh-authors.php:93
+msgid "Ascending"
+msgstr "Oplopend"
+
+# @ mh
+#: includes/widgets/mh-authors.php:94
+msgid "Descending"
+msgstr "Aflopend"
+
+# @ mh
+#: includes/widgets/mh-authors.php:98 includes/widgets/mh-comments.php:59
+msgid "Avatar Size in px:"
+msgstr "Avatar Grootte in px:"
+
+# @ mh
+#: includes/widgets/mh-authors.php:104 includes/widgets/mh-comments.php:65
+msgid "No Avatars"
+msgstr "Geen Avatars"
+
+# @ mh
+#: includes/widgets/mh-carousel.php:7
+msgid "Carousel widget for use on homepage template."
+msgstr "Carousel Widget om te gebruiken op homepage sjabloon"
+
+# @ mh
+#: includes/widgets/mh-carousel.php:8
+msgid "MH Carousel Widget (Homepage)"
+msgstr "MH Carousel Widget (Homepage)"
+
+# @ mh
+#: includes/widgets/mh-carousel.php:67
+#: includes/widgets/mh-custom-posts.php:118 includes/widgets/mh-nip.php:58
+#: includes/widgets/mh-slider.php:86 includes/widgets/mh-spotlight.php:83
+msgid "Select a Category:"
+msgstr "Selecteer een Categorie:"
+
+# @ mh
+#: includes/widgets/mh-carousel.php:69
+#: includes/widgets/mh-custom-posts.php:120 includes/widgets/mh-nip.php:60
+#: includes/widgets/mh-slider.php:88 includes/widgets/mh-spotlight.php:85
+msgid "All"
+msgstr "Alles"
+
+# @ mh
+#: includes/widgets/mh-carousel.php:82
+#: includes/widgets/mh-custom-posts.php:133 includes/widgets/mh-nip.php:73
+#: includes/widgets/mh-slider.php:101
+msgid "Multiple Categories Filter by ID:"
+msgstr "Meerder Categorieën Gefilterd door ID: "
+
+# @ mh
+#: includes/widgets/mh-carousel.php:86
+#: includes/widgets/mh-custom-posts.php:137 includes/widgets/mh-nip.php:77
+#: includes/widgets/mh-slider.php:105 includes/widgets/mh-spotlight.php:98
+msgid "Filter Posts by Tags (e.g. lifestyle):"
+msgstr "Filter Berichten door Tags (b.v. lifestyle):"
+
+# @ mh
+#: includes/widgets/mh-carousel.php:90
+#: includes/widgets/mh-custom-posts.php:141 includes/widgets/mh-nip.php:81
+#: includes/widgets/mh-slider.php:109
+msgid "Limit Post Number:"
+msgstr "Limiteer het aantal Berichten:"
+
+# @ mh
+#: includes/widgets/mh-carousel.php:98
+#: includes/widgets/mh-custom-posts.php:149 includes/widgets/mh-nip.php:89
+#: includes/widgets/mh-slider.php:117 includes/widgets/mh-spotlight.php:106
+msgid "Post Order:"
+msgstr "Berichten Volgorde:"
+
+# @ mh
+#: includes/widgets/mh-carousel.php:100
+#: includes/widgets/mh-custom-posts.php:151 includes/widgets/mh-nip.php:91
+#: includes/widgets/mh-slider.php:119 includes/widgets/mh-spotlight.php:108
+msgid "Latest Posts"
+msgstr "Nieuwste Berichten"
+
+# @ mh
+#: includes/widgets/mh-carousel.php:101
+#: includes/widgets/mh-custom-posts.php:152 includes/widgets/mh-nip.php:92
+#: includes/widgets/mh-slider.php:120 includes/widgets/mh-spotlight.php:109
+msgid "Random Posts"
+msgstr "Willekeurige Berichten"
+
+# @ mh
+#: includes/widgets/mh-carousel.php:102
+#: includes/widgets/mh-custom-posts.php:153 includes/widgets/mh-nip.php:93
+#: includes/widgets/mh-slider.php:121 includes/widgets/mh-spotlight.php:110
+msgid "Popular Posts"
+msgstr "Populaire Berichten"
+
+# @ mh
+#: includes/widgets/mh-carousel.php:106
+msgid "Carousel Layout:"
+msgstr "Carousel Lay-Out:"
+
+# @ mh
+#: includes/widgets/mh-comments.php:7
+msgid ""
+"MH Recent Comments widget to display your recent comments including user "
+"avatars."
+msgstr ""
+"MH Recente Reacties Widget om recente reacties te tonen inclusief gebruikers "
+"avatars."
+
+# @ mh
+#: includes/widgets/mh-comments.php:8
+msgid "MH Recent Comments"
+msgstr "MH Recente Reacties"
+
+# @ mh
+#: includes/widgets/mh-comments.php:27
+#, php-format
+msgctxt "comment widget"
+msgid "%1$s on %2$s"
+msgstr "%1$s op %2$s"
+
+# @ mh
+#: includes/widgets/mh-comments.php:43
+msgid "Recent Comments"
+msgstr "Recente Reacties"
+
+# @ mh
+#: includes/widgets/mh-comments.php:51
+msgid "Limit Comment Number:"
+msgstr "Aantal Reacties"
+
+# @ mh
+#: includes/widgets/mh-comments.php:55
+msgid "Skip Comments (Offset):"
+msgstr "Sla Reacties over (Offset):"
+
+# @ mh
+#: includes/widgets/mh-custom-pages.php:7
+msgid "Custom Pages Widget to display pages based on page IDs."
+msgstr "Aangepaste Pagina's Widget om pagina's te tonen gebaseerd op IDs"
+
+# @ mh
+#: includes/widgets/mh-custom-pages.php:8
+msgid "MH Custom Pages"
+msgstr "MH Aangepaste Pagina's"
+
+# @ mh
+#: includes/widgets/mh-custom-pages.php:75
+msgid "Title (optional):"
+msgstr "Titel (optioneel):"
+
+# @ mh
+#: includes/widgets/mh-custom-pages.php:79
+msgid "Link Title to URL (optional):"
+msgstr "Link Titel naar URL (optioneel):"
+
+# @ mh
+#: includes/widgets/mh-custom-pages.php:83
+msgid "Filter Pages by ID (comma separated):"
+msgstr "Filter Pagina's door ID (gescheiden door komma):"
+
+# @ mh
+#: includes/widgets/mh-custom-pages.php:87
+#: includes/widgets/mh-custom-posts.php:157
+msgid "Display Excerpts:"
+msgstr "Toon Korte Inhoud:"
+
+# @ mh
+#: includes/widgets/mh-custom-pages.php:89
+msgid "Excerpt for first Page"
+msgstr "Korte Inhoud voor eerste Pagina"
+
+# @ mh
+#: includes/widgets/mh-custom-pages.php:90
+msgid "Excerpt for all Pages"
+msgstr "Korte Inhoud voor alle Pagina's"
+
+# @ mh
+#: includes/widgets/mh-custom-pages.php:91
+#: includes/widgets/mh-custom-posts.php:161
+msgid "No Excerpts"
+msgstr "Geen Korte Inhoud"
+
+# @ mh
+#: includes/widgets/mh-custom-pages.php:95
+#: includes/widgets/mh-custom-posts.php:165 includes/widgets/mh-slider.php:139
+#: includes/widgets/mh-spotlight.php:121
+msgid "Excerpt Character Limit:"
+msgstr "Korte Inhoud tekenlimiet:"
+
+# @ mh
+#: includes/widgets/mh-custom-pages.php:99
+#: includes/widgets/mh-custom-posts.php:173
+msgid "Thumbnails:"
+msgstr "Miniaturen:"
+
+# @ mh
+#: includes/widgets/mh-custom-pages.php:101
+#: includes/widgets/mh-custom-posts.php:175
+msgid "Show all Thumbnails"
+msgstr "Toon alle Miniaturen"
+
+# @ mh
+#: includes/widgets/mh-custom-pages.php:102
+#: includes/widgets/mh-custom-posts.php:176
+msgid "Hide all Thumbnails"
+msgstr "Verberg alle Miniaturen"
+
+# @ mh
+#: includes/widgets/mh-custom-pages.php:103
+#: includes/widgets/mh-custom-posts.php:177
+msgid "Hide only large Thumbnails"
+msgstr "Verberg enkel grootte Miniaturen"
+
+# @ mh
+#: includes/widgets/mh-custom-pages.php:104
+#: includes/widgets/mh-custom-posts.php:178
+msgid "Hide only small Thumbnails"
+msgstr "Verberg enkel kleine Miniaturen"
+
+# @ mh
+#: includes/widgets/mh-custom-posts.php:7
+msgid "Custom Posts Widget to display posts based on categories or tags."
+msgstr ""
+"Aangepaste Berichten Widget om berichten te tonen gebaseerd op categorieën "
+"of tags."
+
+# @ mh
+#: includes/widgets/mh-custom-posts.php:8
+msgid "MH Custom Posts"
+msgstr "MH Aangepaste Berichten"
+
+# @ mh
+#: includes/widgets/mh-custom-posts.php:159
+msgid "Excerpt for first Post"
+msgstr "Korte Inhoud voor eerste Bericht"
+
+# @ mh
+#: includes/widgets/mh-custom-posts.php:160
+msgid "Excerpt for all Posts"
+msgstr "Korte Inhoud voor alle Berichten"
+
+# @ mh
+#: includes/widgets/mh-custom-posts.php:169
+msgid "Link Title to custom URL (optional):"
+msgstr "Link de Titel naar een aangepaste URL (optioneel):"
+
+# @ mh
+#: includes/widgets/mh-custom-posts.php:187
+msgid "Hide Date"
+msgstr "Verberg Datum"
+
+# @ mh
+#: includes/widgets/mh-custom-posts.php:191
+msgid "Hide Comment Count"
+msgstr "Verberg het aantal reacties"
+
+# @ mh
+#: includes/widgets/mh-custom-slider.php:7
+msgid ""
+"Custom Slider Widget to display custom content for use on homepage template."
+msgstr ""
+"Aangepaste Slider Widget om aangepaste inhoud te tonen op homepage sjabloon."
+
+# @ mh
+#: includes/widgets/mh-custom-slider.php:8
+msgid "MH Custom Slider Widget"
+msgstr "MH Aangepaste Slider Widget"
+
+# @ mh
+#: includes/widgets/mh-custom-slider.php:124
+#: includes/widgets/mh-custom-slider.php:146
+#: includes/widgets/mh-custom-slider.php:168
+#: includes/widgets/mh-custom-slider.php:190
+#: includes/widgets/mh-custom-slider.php:212
+msgid "Slide"
+msgstr "Slide"
+
+# @ mh
+#: includes/widgets/mh-custom-slider.php:130
+#: includes/widgets/mh-custom-slider.php:152
+#: includes/widgets/mh-custom-slider.php:174
+#: includes/widgets/mh-custom-slider.php:196
+#: includes/widgets/mh-custom-slider.php:218
+msgid "Custom URL:"
+msgstr "Aangepaste URL:"
+
+# @ mh
+#: includes/widgets/mh-custom-slider.php:134
+#: includes/widgets/mh-custom-slider.php:156
+#: includes/widgets/mh-custom-slider.php:178
+#: includes/widgets/mh-custom-slider.php:200
+#: includes/widgets/mh-custom-slider.php:222
+msgid "Custom Image URL:"
+msgstr "Aangepaste Afbeelding URL:"
+
+# @ mh
+#: includes/widgets/mh-custom-slider.php:138
+#: includes/widgets/mh-custom-slider.php:160
+#: includes/widgets/mh-custom-slider.php:182
+#: includes/widgets/mh-custom-slider.php:204
+#: includes/widgets/mh-custom-slider.php:226
+msgid "Custom Excerpt:"
+msgstr "Aangepaste Korte Inhoud:"
+
+# @ mh
+#: includes/widgets/mh-custom-slider.php:143
+#: includes/widgets/mh-custom-slider.php:165
+#: includes/widgets/mh-custom-slider.php:187
+#: includes/widgets/mh-custom-slider.php:209
+#: includes/widgets/mh-custom-slider.php:231
+#: includes/widgets/mh-social-widget.php:165
+msgid "Open Links in new Window / Tab"
+msgstr "Open Links in een Nieuw Venster / Pagina"
+
+# @ mh
+#: includes/widgets/mh-custom-slider.php:234
+msgid "Slider Settings"
+msgstr "Slider Instellingen"
+
+# @ mh
+#: includes/widgets/mh-custom-slider.php:236
+#: includes/widgets/mh-slider.php:132
+msgid "Slider Layout:"
+msgstr "Slider Opmaak:"
+
+# @ mh
+#: includes/widgets/mh-facebook-likebox.php:7
+msgid "Widget to display a Facebook likebox in your sidebar."
+msgstr "Widget om een Facebook Vind ik leuk knop in je zijbalk te plaatsen"
+
+# @ mh
+#: includes/widgets/mh-facebook-likebox.php:8
+msgid "MH Facebook Likebox"
+msgstr "MH Facebook Vind ik leuk knop"
+
+# @ mh
+#: includes/widgets/mh-facebook-likebox.php:41
+msgid "Connect with us on Facebook"
+msgstr "Volg ons op Facebook"
+
+# @ mh
+#: includes/widgets/mh-facebook-likebox.php:49
+msgid "Facebook Page URL:"
+msgstr "Facebook pagina url:"
+
+# @ mh
+#: includes/widgets/mh-facebook-likebox.php:53
+msgid "Width:"
+msgstr "Breedte:"
+
+# @ mh
+#: includes/widgets/mh-facebook-likebox.php:57
+msgid "Height:"
+msgstr "Hoogte:"
+
+# @ mh
+#: includes/widgets/mh-facebook-likebox.php:62
+msgid "Show Faces"
+msgstr "Toon Gezichten"
+
+# @ mh
+#: includes/widgets/mh-facebook-likebox.php:66
+msgid "Show Stream"
+msgstr "Toon Stream"
+
+# @ mh
+#: includes/widgets/mh-facebook-likebox.php:70
+msgid "Show Header"
+msgstr "Toon Header"
+
+# @ mh
+#: includes/widgets/mh-facebook-likebox.php:74
+msgid "Show Border"
+msgstr "Toon Rand"
+
+# @ mh
+#: includes/widgets/mh-nip.php:7
+msgid ""
+"News in Pictures Widget to display a gallery of thumbnails linked to the "
+"post content."
+msgstr ""
+"Nieuws in Foto's Widget om een galerij miniaturen te tonen die linken naar "
+"de bijhorende berichten. "
+
+# @ mh
+#: includes/widgets/mh-nip.php:8
+msgid "MH News in Pictures"
+msgstr "MH Nieuws in foto's"
+
+# @ mh
+#: includes/widgets/mh-slider.php:7
+msgid "Slider widget for use on homepage template."
+msgstr "Slider widget voor gebruik in het homepage sjabloon."
+
+# @ mh
+#: includes/widgets/mh-slider.php:8
+msgid "MH Slider Widget (Homepage)"
+msgstr "MH Slider Widget (Homepage)"
+
+# @ mh
+#: includes/widgets/mh-slider.php:125
+msgid "Slider Image Size:"
+msgstr "Grootte Afbeelding Slider:"
+
+# @ mh
+#: includes/widgets/mh-slider.php:148 includes/widgets/mh-spotlight.php:126
+msgid "Disable Excerpt"
+msgstr "Schakel Korte Inhoud Uit"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:7
+msgid "Widget to display linked social media icons in sidebar or footer."
+msgstr ""
+"Widget om gelinkte sociale media iconen te plaatsen in de zijbalk of footer."
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:8
+msgid "MH Social Widget"
+msgstr "MH Sociale Media Widget"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:34
+msgid "Follow on Facebook"
+msgstr "Volg ons op Facebook"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:37
+msgid "Follow on Twitter"
+msgstr "Volg ons op Twitter"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:40
+msgid "Follow on Google+"
+msgstr "Volg ons op Google+"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:43
+msgid "Follow on YouTube"
+msgstr "Volg ons op YouTube"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:46
+msgid "Follow on Flickr"
+msgstr "Volg ons op Flickr"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:49
+msgid "Follow on Vimeo"
+msgstr "Volg ons op Vimeo"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:52
+msgid "Follow on SoundCloud"
+msgstr "Volg ons op SoundCloud"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:55
+msgid "Follow on Pinterest"
+msgstr "Volg ons op Pinterest"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:58
+msgid "Follow on Instagram"
+msgstr "Volg ons op Instagram"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:61
+msgid "Follow on LinkedIn"
+msgstr "Volg ons op LinkedIn"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:64
+msgid "Follow on Myspace"
+msgstr "Volg ons op Myspace"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:67
+msgid "Follow on Tumblr"
+msgstr "Volg ons op Tumblr"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:70
+msgid "Follow on deviantART"
+msgstr "Volg ons op devianArt"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:73
+msgid "Subscribe to our RSS feed"
+msgstr "Schrijf je in op onze RSS feed"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:100
+msgid "Stay connected"
+msgstr "Volg ons"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:108
+msgid "Facebook URL:"
+msgstr "Facebook URL:"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:112
+msgid "Twitter URL:"
+msgstr "Twitter URL:"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:116
+msgid "Google+ URL:"
+msgstr "Google+ URL:"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:120
+msgid "YouTube URL:"
+msgstr "YouTube URL:"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:124
+msgid "Flickr URL:"
+msgstr "Flickr URL:"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:128
+msgid "Vimeo URL:"
+msgstr "Vimeo URL:"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:132
+msgid "SoundCloud URL:"
+msgstr "SoundCloud URL:"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:136
+msgid "Pinterest URL:"
+msgstr "Pinterest URL:"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:140
+msgid "Instagram URL:"
+msgstr "Instagram URL:"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:144
+msgid "LinkedIn URL:"
+msgstr "LinkedIn URL:"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:148
+msgid "Myspace URL:"
+msgstr "Myspace URL:"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:152
+msgid "Tumblr URL:"
+msgstr "Tumblr"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:156
+msgid "deviantART URL:"
+msgstr "deviantART URL:"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:160
+msgid "RSS Feed URL:"
+msgstr "RSS Feed URL:"
+
+# @ mh
+#: includes/widgets/mh-social-widget.php:169
+msgid "Set Links to nofollow"
+msgstr "Zet Links in nofollow"
+
+# @ mh
+#: includes/widgets/mh-spotlight.php:7
+msgid "Spotlight / Featured widget for use on homepage template."
+msgstr "In de kijker / Featured widget voor gebruik in het homepage sjabloon"
+
+# @ mh
+#: includes/widgets/mh-spotlight.php:8
+msgid "MH Spotlight Widget (Homepage)"
+msgstr "MH In de kijker Widget (Homepage)"
+
+# @ mh
+#: includes/widgets/mh-spotlight.php:12
+msgid "In the spotlight"
+msgstr "Uitgelicht"
+
+# @ mh
+#: includes/widgets/mh-spotlight.php:48
+#, php-format
+msgctxt "post meta"
+msgid "by %1$s in %2$s"
+msgstr "van %1$s in %2$s"
+
+# @ mh
+#: includes/widgets/mh-spotlight.php:114
+msgid "Image size:"
+msgstr "Afbeelding grootte:"
+
+# @ mh
+#: includes/widgets/mh-spotlight.php:130
+msgid "Disable Post Meta"
+msgstr "Schakel Berichten Meta Uit"
+
+# @ mh
+#: page-sitemap.php:7
+msgid "Recent Articles"
+msgstr "Nieuwste Berichten"
+
+# @ mh
+#: page-sitemap.php:15
+msgid "Pages"
+msgstr "Pagina's"
+
+# @ mh
+#: page-sitemap.php:28
+msgid "Categories"
+msgstr "Categorieën"
+
+# @ mh
+#: page-sitemap.php:30
+msgid "No categories"
+msgstr "Geen categorieën"
+
+# @ mh
+#: searchform.php:3
+msgid "To search, type and hit enter"
+msgstr "Om te zoeken, type en druk enter"
+
+# @ mh
+#: includes/mh-custom-functions.php:66
+#, php-format
+msgctxt "post meta newsticker"
+msgid "%1$s in %2$s"
+msgstr "%1$s in %2$s"
+
+# @ mh
+#: includes/mh-options.php:156 includes/mh-options.php:157
+#, php-format
+msgctxt "options panel"
+msgid "Theme Color %d"
+msgstr "Thema Kleur %d"
+
+# @ mh
+#: includes/mh-options.php:159 includes/mh-options.php:160
+#, php-format
+msgctxt "options panel"
+msgid "Text: Colored Sections (Color %d)"
+msgstr "Tekst: Gekleurde Delen (Kleur %d)"
+
+# @ mh
+#: includes/mh-options.php:162
+msgid "Links: General Color"
+msgstr "Links: Algemene Kleur"
+
+# @ mh
+#: includes/mh-options.php:163
+msgid "Links: Hover Color"
+msgstr "Links: Hover Kleur"

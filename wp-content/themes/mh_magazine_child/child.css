@@ -1,0 +1,29 @@
+@import 'assets/css/post_formatting.css';
+@import 'assets/css/front-end-editor.css';
+@import 'assets/css/upload-progress.css';
+
+.logo.logo-overlay {
+    display: none;
+}
+#submit-placeholder {
+    color: white;
+    background: black;
+    display: inline-block;
+    font-family: arial, sans-serif;
+    font-weight: normal;
+    padding: 2px 15px;
+    text-decoration: none;
+    cursor: pointer;
+    -webkit-transition: all 0.1s linear;
+    -moz-transition: all 0.1s linear;
+    transition: all 0.1s linear;
+}
+#submit-placeholder:hover,
+#submit-placeholder:focus,
+#submit-placeholder:active {
+    background: #63addd;
+}
+.gfield_list .progress.uploading .progress-bar,
+.itsg_single_ajax .progress.uploading .progress-bar {
+    background-color:#00C274;
+}

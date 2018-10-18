@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo:400,700');
+.mce-preview-object
+{
+    width: 100%;
+}
+.gravity-forms-post-body,
+.report-post-body {
+    font-weight: bold;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Arvo', serif;
+}
+.gravity-forms-post-body iframe,
+.report-post-body iframe {
+    width: 100%;
+    max-width: 600px;
+    height: 600px;
+}
+.section-header {
+    text-decoration:underline;
+}
+.report-post-body.lost-pet .color-value,
+.red {
+    color:red;
+}
+.report-post-body.found-pet .color-value,
+.blue
+{
+	color: blue;
+}
+.report-post-body.update-previous .color-value,
+.report-post-body.pet-sighting .color-value {
+    color:green;
+}
+.report-post-body.deceased-pet .color-value {
+	color:purple;
+}
+.post-header-image .size-medium.aligncenter {
+	width: auto;
+	height:100%;
+}
+.post-header-image:nth-child(2) {
+	height:450px;
+}

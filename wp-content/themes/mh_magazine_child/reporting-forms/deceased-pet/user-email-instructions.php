@@ -1,0 +1,3 @@
+<?php 
+$user_email_instructions = 'Thank you for your submission.  A copy is shown below.  We appreciate your looking out for our furry friends.  If  possible, please view our lost pet alerts to determine if this deceased pet may be one of them.  If so, please let us know so we can discuss with the owner if appropriate.  Link to website where you may view our lost pet alerts: http://www.indylostpetalert.com then click on LOST ALBUMS.';
+?>
