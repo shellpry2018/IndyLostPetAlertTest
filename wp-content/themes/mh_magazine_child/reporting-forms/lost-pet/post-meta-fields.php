@@ -1,4 +1,4 @@
-<?php 
+<?php
 	include(locate_template('reporting-forms/global/radio-options.php'));
 	$variable_names = [
 		'report_type' => [
@@ -92,11 +92,11 @@
         ],
         'nearest_intersection' => [
             'description' => 'Nearest Intersection/Cross Streets Where Pet Went Missing',
-            'type' => 'textarea',
+            'type' => 'text',
         ],
         'nearest_neighborhood' => [
             'description' => 'Nearest Neighborhood, Subdivision or Complex To Where The Pet Was Lost? If None or Unknown, Leave Blank',
-            'type' => 'textarea',
+            'type' => 'text',
             'required' => false,
         ],
         'nearest_city' => [
@@ -105,8 +105,7 @@
         ],
         'nearest_county' => [
             'description' => 'In What County Was the Pet Lost?',
-            'type' => 'radio',
-            'radio_options' => $county_list,
-        ],
+            'type' => 'text'
+        ]
 	];
 ?>
